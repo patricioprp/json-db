@@ -1,0 +1,39 @@
+{
+   "cursos": [
+        {
+          id: 1,
+          titulo: "Recact desde cero",
+          image: "https://ux.ed.team/img/curso-portada.png",
+          price: 40,
+          professor: "Patricio Polito"
+        },
+        {
+          "id": 2,
+          "titulo": "Laravel desde cero",
+          "image": "https://ux.ed.team/img/curso-portada.png",
+          "price": 40,
+          "professor": "Rodrigo Juarez"
+        },
+        {
+          "id": 3,
+          "titulo": "Java desde cero",
+          "image": "https://ux.ed.team/img/curso-portada.png",
+          "price": 40,
+          "professor": "Patricio Polito"
+        },
+        {
+          "id": 4,
+          "titulo": "Html desde cero",
+          "image": "https://ux.ed.team/img/curso-portada.png",
+          "price": 40,
+          "professor": "Mario Perez"
+        },
+        {
+          "id": 5,
+          "titulo": "Express desde cero",
+          "image": "https://ux.ed.team/img/curso-portada.png",
+          "price": 40,
+          "professor": "Marcos Juarez"
+        }
+      ]
+}
